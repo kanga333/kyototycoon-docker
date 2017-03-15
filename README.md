@@ -12,6 +12,7 @@ Kyoto tycoon's lua extension is enabled.The version of each middle is below.
 `alpine linux 5.5`  
 `kyotocabinet 1.2.76`  
 `kyototycoon 0.9.56`  
+`lua 5.1.5-r4`
 
 ## How to use?
 
