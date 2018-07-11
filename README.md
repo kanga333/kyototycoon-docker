@@ -9,7 +9,7 @@ For more detailed information please check the [official HP](http://fallabs.com/
 This is a Docker Image of Kyoto tycoon built on alpine.
 Kyoto tycoon's lua extension is enabled.The version of each middle is below.
 
-`alpine linux 5.5`  
+`alpine linux 3.8`  
 `kyotocabinet 1.2.76`  
 `kyototycoon 0.9.56`  
 `lua 5.1.5-r4`
